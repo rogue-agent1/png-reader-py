@@ -1,0 +1,1 @@
+# png-reader-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 png_reader.py\n```\n
